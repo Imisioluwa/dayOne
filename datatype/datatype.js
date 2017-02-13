@@ -29,7 +29,7 @@ function dataType(data){
   }
   //If data is an array then proceed to comment below....
   if (data instanceof Array){
-  	//If the length of the data is less than 3 return undefined
+  	//If the length of the data is less than 3 return undefined.
     if (data.length < 3){
 	  return undefined;
 	}
