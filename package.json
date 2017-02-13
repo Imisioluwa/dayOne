@@ -1,0 +1,22 @@
+{
+  "name": "dayone",
+  "version": "1.0.0",
+  "description": "This consists of functions that creates data type, stores prime numbers from zero to n and a real life problem with OOP.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Imisioluwa/dayOne.git"
+  },
+  "author": "Akande Imisioluwa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Imisioluwa/dayOne/issues"
+  },
+  "homepage": "https://github.com/Imisioluwa/dayOne#readme",
+  "dependencies": {
+    "jasmine": "^2.5.3"
+  }
+}
